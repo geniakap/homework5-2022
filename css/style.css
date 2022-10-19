@@ -110,6 +110,7 @@ a, a:visited{
 
 @media print{
     body{
+        position: none;
         font-family: Arial, Helvetica;
         background-image: none; 
         background-color: #f1f1f1; 
